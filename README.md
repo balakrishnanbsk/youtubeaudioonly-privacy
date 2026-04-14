@@ -102,3 +102,8 @@ Contributions, issues, and feature requests are welcome! Feel free to open an [i
 <p align="center">
   Made with ❤️ for distraction-free YouTube listening
 </p>
+
+
+This project is developed independently during personal time 
+and does not contain any proprietary or confidential code 
+from my employer.
